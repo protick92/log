@@ -78,7 +78,7 @@ $('#dialog1').dialog("option", "width", "auto");
 		$tieniTraccia="";
 		
 		// barra di navigazione
-		echo '<nav class="navbar navbar-default"><h4 style="font-size:18pt; text-align:center; padding:2px; color:black;font-family:Dosis,sans-serif;">Riepilogo File</h4></nav>';
+		echo '<nav class="navbar navbar-default"><h4 style="font-size:18pt; text-align:center; padding:2px; color:black;font-family:Dosis,sans-serif;">Riepilogo File - Prova</h4></nav>';
 		
 		// Scorro l'array
 		foreach ($array_contents AS $key=>$value) {
