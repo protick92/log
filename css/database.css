@@ -1,0 +1,95 @@
+
+.cerchioRosso {
+  border-radius: 50%;
+  width:75px;
+  height:75px;
+  background:#cc2200; 
+  margin-left:1%;
+}
+.cerchioBlu {
+  border-radius: 50%;
+  width:75px;
+  height:75px;
+  background:#aabbaa; 
+  margin-left:1%;
+}
+.modellaScritta{
+  font-family:Monotype Corsiva;
+  font-size:35px;
+	color: #003366;
+}
+body.settaSfondo{
+  background:#ffffff;
+}
+.disegnaBordo{
+  border-top: 1px solid #aabbaa;
+  border-left: 1px solid #aabbaa;
+  border-bottom: 1px solid #aabbaa;
+  border-right: 1px solid #aabbaa;
+  margin-top: 0px;
+  background:#ffeedd;
+  padding:10px;
+}
+.spostaADestra{
+  margin-left:75%;
+}
+.allineaAlCentro{
+  margin-left:30%;
+  margin-right:30%;
+  font-family:Monotype Corsiva;
+  margin-top:6%;
+}
+.settaDivContLogoSanPaolo{
+  width:20%; 
+  height: 100%; 
+  background:white; 
+  float:left;
+}
+.settaDivLogoSanPaolo{
+  width: 95%; 
+  margin: 0 auto; 
+  float: right;
+}
+.settaImmagineLogoSanPaolo{
+  width: 100%; 
+  margin: 15px 0; 
+  cursor:pointer; 
+  border: 0;
+}
+.settaDivContIntestazione{
+  width:60%; 
+  height: 100%;
+  float:left;
+}
+.settaDivIntestazione{
+  width: 70%; 
+  margin: 0 auto; 
+  height: 100%;
+}
+.settaIntestazione{
+  text-align:center; 
+  font-family: ubunturegular; 
+  font-weight: bold; 
+  color: #F27E02; 
+  font-size: 35pt; 
+  margin: 15px 0 0 0;
+}
+.divContPuzzleGAT{
+  width:20%; 
+  height: 100%;
+  float:left;
+}
+.divPuzzleGAT{
+  height: 100%; 
+  margin: 0 auto;
+}
+.modellaPosizione{
+  margin-top:1%;
+}
+.flotcontainer {
+    width: 600px;
+    height: 400px;
+    text-align: left;
+}
+
+
